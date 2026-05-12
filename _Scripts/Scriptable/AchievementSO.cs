@@ -6,7 +6,7 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "AchievementSO_", menuName = "Achievements/AchievementSO")]
 public class AchievementSO : ScriptableObject
 {
-    [Heade(("Settings"))]
+    [Header(("Settings"))]
     [SerializeField] private string _saveID;
     [SerializeField] private string _achievementName;
     [SerializeField, TextArea()] private string _description;

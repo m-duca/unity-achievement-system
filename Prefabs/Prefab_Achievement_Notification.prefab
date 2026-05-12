@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3378822354238459429}
   - component: {fileID: 1849391324449974665}
   m_Layer: 5
-  m_Name: Notification_Description_Img
+  m_Name: Notification_Description_Txt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -294,7 +294,7 @@ GameObject:
   - component: {fileID: 1845082760651182614}
   - component: {fileID: 5642504677011308827}
   m_Layer: 5
-  m_Name: Notification_Name_Img
+  m_Name: Notification_Name_Txt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
